@@ -1,5 +1,10 @@
-## Hi there 👋
+## 💫 About Me:
+Привет!<br>Я Руслан (gervaty)!<br>0 Публичных реп<br>Python, C#
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gervaty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gervaty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gervaty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **gervaty/gervaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
