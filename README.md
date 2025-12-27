@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Привет!<br>Я Руслан (gervaty)!<br>0 Публичных реп<br>Python, C#
+Привет!<br>Я Руслан (gervaty)!<br>0 Публичных реп<br>Python, C#, Java<br>Работаю над DashBlocks
 <!--
 **gervaty/gervaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
